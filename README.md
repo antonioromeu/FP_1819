@@ -1,14 +1,10 @@
-# FP_1819 : Binary Puzzle Solver
+# FP_1819 : Hello Quantum
 
-A program for solving a binary puzzles.
+An aproach to the Hello Quantum game.
 
 ## Authors
 
 * António Romeu Pinheiro
-
-## Acknowledgments
-
-Some skeleton code was given by the teachers.  
 
 ## Evaluation
 
